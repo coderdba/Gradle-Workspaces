@@ -8,3 +8,11 @@ git add .
 git commit -m "first commit"
 git remote add origin git@github.com:coderdba/Gradle-Workspaces.git
 git push -u origin master
+
+echo
+echo
+echo
+echo RUN IT AGAIN IF IT GIVES SOME INITIAL ERROR
+echo
+echo
+echo
