@@ -28,7 +28,7 @@ repositories {
     mavenCentral()
     jcenter()
     maven {
-        url '/Users/dbgsm0/.m2/repository'
+        url '/Users/username/.m2/repository'
     }
 }
 
